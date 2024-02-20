@@ -1,0 +1,53 @@
+.review-highlighter {
+    margin-bottom: 20px;
+  }
+  
+  .highlighted-sentence {
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  
+  .tooltip {
+    position: absolute;
+    background-color: rgb(155, 205, 205);
+    border: 1px solid #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tooltip p {
+    margin: 0;
+  }
+  
+
+  .review-container {
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.review-highlighter {
+  padding: 10px; 
+}
+
+.highlighted-sentence {
+  display: block;
+  padding: 5px; 
+  margin-bottom: 5px; 
+}
+
+.review {
+  
+  margin-bottom: 10px; 
+}
+
+.review h3 {
+  margin-top: 0;
+}
+
+.review p {
+  margin-bottom: 0; 
+}
